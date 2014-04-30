@@ -1,0 +1,14 @@
+{
+    "name": "fiddner",
+    "version": "0.0.0",
+    "description": "a nodejs version fiddler",
+    "main": "index.js",
+    "dependencies": {
+        "q": ""
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+        "author": "liyinan",
+        "license": "MIT"
+}
